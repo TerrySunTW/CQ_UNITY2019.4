@@ -8,7 +8,7 @@ Install UnityHub
 
 https://unity.com/releases/editor/archive 
 
-Download and install specifical version:2019.4.10f
+Download and install specifical version:2019.4.10
 
 
 # ==BUILD COMMAND==
