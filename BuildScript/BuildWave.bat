@@ -1,4 +1,4 @@
-set unity="C:\Program Files\Unity\Hub\Editor\2019.4.10f1\Editor\Unity.exe"
+set unity="C:\Program Files\Unity\Hub\Editor\2019.4.10\Editor\Unity.exe"
 set buildTarget=Android
 set projectPath=..
 set executeMethod=BuildScript.WaveVRBuild
